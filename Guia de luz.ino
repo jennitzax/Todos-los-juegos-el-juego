@@ -1,7 +1,8 @@
+// Despertador de estrellas
+// Jenny Ramirez Osorio y Sofia Storani
+// Maestría en Tecnología y Estética de las Artes Electrónicas
 
-
-
-
+/////////////////////////////////////////////////////////////////
 
 
 int colorR = 13;
