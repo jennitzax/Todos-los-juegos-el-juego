@@ -1,5 +1,9 @@
 //Código para arduino
 
+// Sanador
+// Jenny Ramirez Osorio y Sofia Storani
+// Maestría en Tecnología y Estética de las Artes Electrónicas
+
 
 // Agradecimientos inmensos y con abrazo grande para el querido amigo
 // Santiago Chavez, quién me compartió y coloboró en el testeo de su código python para Musultra
