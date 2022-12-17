@@ -1,4 +1,3 @@
-//Código para arduino
 
 // Sanador
 // Jenny Ramirez Osorio y Sofia Storani
