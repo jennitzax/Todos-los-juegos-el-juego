@@ -1,6 +1,6 @@
 //
 
-Todos los juegos el juego // instrucciones para juegar con fuego // MAE 2022
+Todos los juegos el juego // instrucciones para juegar con fuego 
 _____________________________________________________________________________________________________________________-___________________
 
 /*
